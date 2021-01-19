@@ -1,7 +1,8 @@
 ### Hello 👋
-### 打工人 🌱
-### 要恰饭 👯
 ### Enjoy yourself ⚡
+### 程序员 
+### 后端
+### 宅
 <!--
 **lennon-liu/lennon-liu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
