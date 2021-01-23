@@ -1,5 +1,7 @@
-<img align="right" alt="ouuan's github stats" width="50%" src="https://github-readme-stats.vercel.app/api?username=lennon-liu&show_icons=true&count_private=true">
-<img align="right" alt="ouuan's github stats" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lennon-liu&hide=html&layout=compact">
+<img align="right" alt="github stats" width="50%" src="https://github-readme-stats.vercel.app/api?username=lennon-liu&show_icons=true&count_private=true">
+<img align="right" alt="github stats" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lennon-liu&hide=html&layout=compact">
+
+[>>博客传送门💬<<](https://lennon.work)
 
 ### Hello 👋
 ### Enjoy yourself ⚡
@@ -7,7 +9,7 @@
 ### 后端
 ### 宅
 
-[ ----------------------------------------------博客传送门----------------------------------------------------](https://lennon.work)
+
 <!--
 **lennon-liu/lennon-liu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
