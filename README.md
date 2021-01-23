@@ -1,3 +1,6 @@
+<img align="right" alt="ouuan's github stats" width="50%" src="https://github-readme-stats.vercel.app/api?username=blackAzrael&show_icons=true&count_private=true">
+<img align="right" alt="ouuan's github stats" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blackAzrael&hide=html&layout=compact">
+
 ### Hello 👋
 ### Enjoy yourself ⚡
 ### 程序员 
